@@ -2,11 +2,13 @@
 
 [![Qubic](https://img.shields.io/badge/Qubic-Bridge-blue.svg)](https://qubic.org)
 [![Security](https://img.shields.io/badge/Security-Audited-green.svg)](https://kudelski-security.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Vottun%20Proprietary-red.svg)](LICENSE)
 
 ## Overview
 
 QBridge is a next-generation, non-custodial cross-chain bridge that enables seamless token transfers between the Qubic blockchain and the Ethereum network. Built with security and decentralization as core principles, QBridge provides a trust-minimized solution for cross-chain interoperability.
+
+> **⚠️ Important Disclaimer:** This proposal covers the smart contract implementation and deployment only. It does **not** include ongoing maintenance/operation costs, nor does it provide initial liquidity for the bridge. These operational aspects would need to be addressed separately by the implementing team or community.
 
 ## 🚀 Key Features
 
@@ -228,12 +230,14 @@ We welcome contributions to QBridge! Please follow these guidelines:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Qubic License Agreement by Vottun. All rights reserved. See the [LICENSE](LICENSE) file for complete terms and conditions.
+
+**Note:** This software is developed specifically for the Qubic ecosystem. Commercial use by third parties is not permitted without explicit authorization from Vottun.
 
 ## 🔗 Links
 
 - **Qubic Official**: [https://qubic.org](https://qubic.org)
-- **Security Audit**: [Kudelski Security Report](Kudelski_Security_Qubic_Secure_Code_Review_2.1.pdf)
+- **Security Audit**: [Kudelski Security Report](Kudelski_Security_Qubic_Secure_Code_Review_2.0.pdf)
 - **Technical Proposal**: [QBridge Proposal](2025-08-19-VottunBridge.md)
 
 ## 📞 Support
